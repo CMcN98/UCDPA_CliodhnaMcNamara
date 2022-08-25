@@ -1,6 +1,8 @@
 # UCDPA_CliodhnaMcNamara
 Data Anlysis of survival percentages on multiple factors in the Titanic dataset
 
+Intro
+I chose the Titanic as it is really interesting how much high-quality data is available for a renowned historic event that occurred over a hundred years ago and shaped the ship building industry from then on. There is a good spread of data that has been gathered regarding this event. A certain level of data quality is guaranteed with the Titanic as it is a much-studied tragedy. The integrity of the data allows for a more accurate analysis, and this was a big draw. The data available also acted as a social commentary for the period. It was revealing that there were stark differences between ticket classes, age range and sex. Analysing these events of the past gives us a better understanding of a time gone by.
 
 Data
 Survived – Integer, 0 = No, 1 = Yes, Whether the passenger survived or not.
